@@ -2,3 +2,5 @@
 ## Un projet de test pour apprendre Git
 
 Ce projet est réalisé au sein de l'Ifocop
+
+On crée un fichier et on le modifie 
